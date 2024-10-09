@@ -25,7 +25,7 @@ const DetailScreen = ({ route }) => {
       </View>
 
       <Button
-        title="Add to cart"
+        title="Addd to cart"
         onPress={() => console.log('Added to cart', product, 'Quantity:', quantity)} // Thêm sản phẩm vào giỏ hàng
       />
     </View>
